@@ -1,7 +1,7 @@
 # pg_analytics_concept1
 Simple explorations of dashboard development with The Graph and Subgrounds
 
-All requirements are provided in the requirements.txt file
+All requirements are provided in the **requirements.txt** file
 
 I recommend creating a pipenv to play with this app
 
